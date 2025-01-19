@@ -1,5 +1,5 @@
 Use of the codes for each white key
-
+----------------------------------------------
 Piano White Key	Computer Key to Be Used
 Dó	Lowercase or uppercase C (“c” or “C”)
 Ré	Lowercase or uppercase D (“d” or “D”)
